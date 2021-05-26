@@ -26,10 +26,10 @@ You don't need to do anything with csv module since it is included in the Python
 ## Input / Output
 
 ### Sample Input
-<img src="img/input.png">
+![Sample Input](img/input.png)
 
 ### Sample Output
-<img src="img/output.png">
+![Sample Output](img/output.png)
    
 <br>
 
