@@ -4,7 +4,7 @@ Python script that calculates the number of seats according to the D'Hondt metho
 ## Prerequisites
    - python
    - csv
-<br>
+
 You don't need to do anything with csv module since it is included in the Python installation.
 
 ## Usage
