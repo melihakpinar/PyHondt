@@ -16,6 +16,7 @@ You don't need to do anything with csv module since it is included in the Python
 2. If seats are reserved for constituencies, write the names of constituencies to the first column of each row except the first row. Otherwise, you can handle all the results in one constituency and name it "x".
 3. If a party did not nominate a candidate in a constituency or did not receive votes, write 0 there. (Do not leave it blank!)
 4. Run the `main.py` file.
+
    ```sh
    python main.py
    ```
