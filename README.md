@@ -1,5 +1,5 @@
 # PyHondt
-Python script that calculates the number of seats according to the D'Hondt method.
+Simple Python script that calculates the number of seats according to the D'Hondt method.
 
 <br>
 
