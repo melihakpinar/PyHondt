@@ -6,7 +6,7 @@ Python script that calculates the number of seats according to the D'Hondt metho
    - csv
 
 You don't need to do anything with csv module since it is included in the Python installation.
-
+<br>
 ## Usage
 1. Fill the columns after the "seats" column with the name of all parties.
 2. If seats are reserved for constituencies, write the names of constituencies to the first column of each row except the first row. Otherwise, you can handle all the results in one constituency and name it "x".
