@@ -2,9 +2,9 @@
 Python script that calculates the number of seats according to the D'Hondt method.
 
 ## Prerequisites
-* python
-* csv
-\n You don't need to do anything with csv module since it is included in the Python installation.
+### python
+### csv
+You don't need to do anything with csv module since it is included in the Python installation.
 <br>
 ## Usage
 1. Fill the columns after the "seats" column with the name of all parties.
