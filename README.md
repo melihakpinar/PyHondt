@@ -5,7 +5,6 @@ Simple Python script that calculates the number of seats according to the D'Hond
 
 ## Prerequisites
    - Python2 / Python3
-   - csv
 
 You don't need to do anything with csv module since it is included in the Python installation.
 
